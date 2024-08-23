@@ -4,4 +4,10 @@ FOR JWT AUTHENTICATION : https://medium.com/geekculture/implementing-json-web-to
 FOR SPRING SECURITY AUTHENTICATION FLOW : https://medium.com/geekculture/spring-security-authentication-process-authentication-flow-behind-the-scenes-d56da63f04fa
 
 FOR KERBEROS AUTHENTICATION FLOW : https://www.freecodecamp.org/news/how-does-kerberos-work-authentication-protocol/
+
+FOR INTERCEPTOR FLOW : https://medium.com/@aedemirsen/what-is-spring-boot-request-interceptor-and-how-to-use-it-7fd85f3df7f7
+
+FOR FILTER FLOW : https://medium.com/@malikhkif/introduction-to-spring-filters-part-1-b24d4a31310e
+
+MODIFYING REQUEST WITH INTERCEPTOR AND FILTERS : https://www.baeldung.com/spring-boot-change-request-body-before-controller
 	
