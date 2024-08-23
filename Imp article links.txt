@@ -1,0 +1,7 @@
+FOR JWT AUTHENTICATION : https://medium.com/geekculture/implementing-json-web-token-jwt-authentication-using-spring-security-detailed-walkthrough-1ac480a8d970
+
+
+FOR SPRING SECURITY AUTHENTICATION FLOW : https://medium.com/geekculture/spring-security-authentication-process-authentication-flow-behind-the-scenes-d56da63f04fa
+
+FOR KERBEROS AUTHENTICATION FLOW : https://www.freecodecamp.org/news/how-does-kerberos-work-authentication-protocol/
+	
